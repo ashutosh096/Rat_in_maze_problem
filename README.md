@@ -21,6 +21,8 @@ A rat starts at the source location $(0, 0)$ and wants to reach the destination 
     g++ main.cpp -o rat_in_maze
     ```
 4.  **Execute the program**:
+
+5.  ![image alt](https://github.com/ashutosh096/Rat_in_maze_problem/blob/365ebdc98cecee9619436065f74ada837eace96d/Screenshot%202026-03-27%20233637.png)
     ```bash
     ./rat_in_maze
     ```
